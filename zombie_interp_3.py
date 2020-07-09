@@ -1,4 +1,4 @@
-#Updated to Python 3 by James Nicholson. All credit goes to User:Marinus for making it.
+#Updated to Python 3 by computational necromancer James Gustav Nicholson (User: Dolphinjamez). All credit goes to User:Marinus for making it.
 
 #!/usr/bin/env python
 
